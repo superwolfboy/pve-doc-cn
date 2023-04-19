@@ -15,7 +15,7 @@
 U盘需要至少有1 GB的可用存储。
 
 **注意**
-不要用UNetbootin或Rufus。
+不要使用UNetbootin，该工具不适用于Proxmox VE安装映像
 
 **重要**
 请确保U盘没有被挂载，并且没有任何重要数据。
